@@ -1,4 +1,4 @@
-package day01.src.com.duotai.java;
+package day01_mianxiangduixiang.src.com.duotai.java;
 
 public class Test1 {
     public static void main(String[] args) {
