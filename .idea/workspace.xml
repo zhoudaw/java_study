@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e60203-c8ef-44d2-9a32-7afe65233c46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/chouxiang/java/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jiekou/java/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jiekou/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jingtai/java/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jingtai/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jingtai/java/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/neibulei/java/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/neibulei/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/baozhuanlei/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/baozhuanlei/java/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/stringbuilder/java/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/stringbuilder/java/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/stringbuilder/java/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/stringjoiner/java/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/stringjoiner/java/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/day01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/chongzai/java/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/chongzai/java/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/chongzai/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/chongzai/java/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/duotai/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/duotai/java/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/jicheng/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jicheng/java/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/jicheng/java/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jicheng/java/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/jicheng/java/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/jicheng/java/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/study/java/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_mianxiangduixiang/src/com/study/java/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +45,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Test2 (2)">
-    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01.src.com.jingtai.java.Test1" />
-      <module name="java_study" />
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baozhuanlei.java.Test" />
+      <module name="day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01.src.com.jingtai.java.*" />
+          <option name="PATTERN" value="com.baozhuanlei.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringjoiner.java.Test1" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringjoiner.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_mianxiangduixiang.src.com.neibulei.java.Test1" />
-      <module name="java_study" />
+      <option name="MAIN_CLASS_NAME" value="com.baozhuanlei.java.Test1" />
+      <module name="day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_mianxiangduixiang.src.com.neibulei.java.*" />
+          <option name="PATTERN" value="com.baozhuanlei.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01.src.com.jingtai.java.Test2" />
-      <module name="java_study" />
+      <option name="MAIN_CLASS_NAME" value="com.stringjoiner.java.Test2" />
+      <module name="day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01.src.com.jingtai.java.*" />
+          <option name="PATTERN" value="com.stringjoiner.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_mianxiangduixiang.src.com.jingtai.java.Test2" />
-      <module name="java_study" />
+      <option name="MAIN_CLASS_NAME" value="com.stringbuilder.java.Test2" />
+      <module name="day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_mianxiangduixiang.src.com.jingtai.java.*" />
+          <option name="PATTERN" value="com.stringbuilder.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,37 +137,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_mianxiangduixiang.src.com.jingtai.java.Test3" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day01_mianxiangduixiang.src.com.jingtai.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2 (2)" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test2 (1)" />
         <item itemvalue="Application.Test1 (2)" />
+        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +170,8 @@
       <updated>1614677633669</updated>
       <workItem from="1614677635212" duration="1361000" />
       <workItem from="1614733648797" duration="549000" />
-      <workItem from="1614823458244" duration="14417000" />
+      <workItem from="1614823458244" duration="14669000" />
+      <workItem from="1614907748517" duration="15913000" />
     </task>
     <servers />
   </component>
